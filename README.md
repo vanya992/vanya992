@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Front-end Developer currently stu
 - 💻 HTML, CSS, JavaScript
 - 🎨 Figma
 - 🌐 WordPress (Elementor Pro)
+- 📚 React (currently learning)
 
-## Let's Connect!
-Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about coding and web development. I'm always open to new opportunities and connections!
+
 
