@@ -1,6 +1,6 @@
 # Hi there 👋 Vladimira here
 
-I'm a passionate Front-end Developer currently studying at Noroff vocational school. I'm deeply in love with coding and the endless possibilities it brings to life.
+I'm a passionate Front-end Developer currently studying at Noroff vocational school. I'm in love with coding and the endless possibilities it brings to life.
 
 ## About Me
 - 🌱 I’m currently learning and growing my skills in Front-end Development.
@@ -16,7 +16,7 @@ I'm a passionate Front-end Developer currently studying at Noroff vocational sch
 - 💻 HTML, CSS, JavaScript
 - 🎨 Figma
 - 🌐 WordPress (Elementor Pro)
-- 📚 React (currently learning)
+- 📚 React
 
 
 
