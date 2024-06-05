@@ -4,9 +4,7 @@ I'm a passionate Front-end Developer currently studying at Noroff vocational sch
 
 ## About Me
 - 🌱 I’m currently learning and growing my skills in Front-end Development.
-- 🔭 I'm currently taking an apprenticeship at a small company specializing in WordPress website development.
-- 💼 I am much more interested in programing, but love the opportunity to learn more about design as well.
-- 🎨 I have experience with HTML, CSS, JavaScript, React, Figma, and WordPress (Elementor Pro).
+- 🔭 Working at a start-up for Website development and digital marketing.
   
 ## Get in Touch
 - 📫 How to reach me: [vladimiradmitrovic@gmail.com](mailto:vladimiradmitrovic@gmail.com)
