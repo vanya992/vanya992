@@ -16,5 +16,6 @@ I'm a passionate Front-end Developer currently studying at Noroff vocational sch
 - 🌐 WordPress (Elementor Pro)
 - 📚 React
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wp,react)](https://skillicons.dev)
 
 
