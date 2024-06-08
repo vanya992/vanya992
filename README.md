@@ -11,11 +11,7 @@ I'm a passionate Front-end Developer currently studying at Noroff vocational sch
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladimira-dmitrovic-090183249/)
 
 ## Skills
-- 💻 HTML, CSS, JavaScript
-- 🎨 Figma
-- 🌐 WordPress (Elementor Pro)
-- 📚 React
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wp,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,wordpress)](https://skillicons.dev)
 
 
